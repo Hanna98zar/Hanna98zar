@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hannaneh zarrabi
+- 👋 Hi, I’m Hannaneh zarrabi
 - 👀 I’m interested in quantum computing, superconducting qubits, quantum information processing, and novel optoelectronic devices.
 - 🌱 I’m currently learning about advanced quantum control techniques, machine learning for quantum systems, and improving quantum processor scalability.
 - 💞️ I’m looking to collaborate on projects related to quantum hardware, superconducting circuits, and interdisciplinary quantum research in both academia and industry.
